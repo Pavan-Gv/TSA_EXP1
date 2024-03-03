@@ -89,9 +89,21 @@ plt.show()
 
 ### Population Time Series Data :
 
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/437a1edc-f19e-4be4-8a1b-046451e19acd)
+
 ### Market Price of a Commodity Time Series Data :
 
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/119e0938-8bae-4ea2-8169-39f59e520fd7)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/5f227f16-d1ce-402c-8a19-25e12cce6cd9)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/edf144ee-2eba-4330-9c47-88c59fccbd99)
+
 ### Temperature Time Series Data :
+
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/5d810fb8-2d8f-4e0e-a6f8-6cf942027bae)
+
+![image](https://github.com/Pavan-Gv/TSA_EXP1/assets/94827772/9c571964-7b8b-450c-b5ab-be78a71a0b57)
 
 ## RESULT :
 
